@@ -1,0 +1,4 @@
+# all txt
+*.txt
+### execpt
+!requirements.txt
