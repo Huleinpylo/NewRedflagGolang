@@ -12,7 +12,7 @@ For the go version
 git clone https://github.com/Huleinpylo/NewRedflagGolang.git
 cd NewRedflagGolang
 go build -ldflags "-s -w" .\main.go
-
+ 
 ```
 ## Usage go
 ```
